@@ -1,0 +1,13 @@
+D:\School\Programs\C#\ExprSolver\ExprSolver\obj\Debug\netcoreapp3.1\ExprSolver.csprojAssemblyReference.cache
+D:\School\Programs\C#\ExprSolver\ExprSolver\obj\Debug\netcoreapp3.1\ExprSolver.AssemblyInfoInputs.cache
+D:\School\Programs\C#\ExprSolver\ExprSolver\obj\Debug\netcoreapp3.1\ExprSolver.AssemblyInfo.cs
+D:\School\Programs\C#\ExprSolver\ExprSolver\obj\Debug\netcoreapp3.1\ExprSolver.csproj.CoreCompileInputs.cache
+D:\School\Programs\C#\ExprSolver\ExprSolver\bin\Debug\netcoreapp3.1\ExprSolver.exe
+D:\School\Programs\C#\ExprSolver\ExprSolver\bin\Debug\netcoreapp3.1\ExprSolver.deps.json
+D:\School\Programs\C#\ExprSolver\ExprSolver\bin\Debug\netcoreapp3.1\ExprSolver.runtimeconfig.json
+D:\School\Programs\C#\ExprSolver\ExprSolver\bin\Debug\netcoreapp3.1\ExprSolver.runtimeconfig.dev.json
+D:\School\Programs\C#\ExprSolver\ExprSolver\bin\Debug\netcoreapp3.1\ExprSolver.dll
+D:\School\Programs\C#\ExprSolver\ExprSolver\bin\Debug\netcoreapp3.1\ExprSolver.pdb
+D:\School\Programs\C#\ExprSolver\ExprSolver\obj\Debug\netcoreapp3.1\ExprSolver.dll
+D:\School\Programs\C#\ExprSolver\ExprSolver\obj\Debug\netcoreapp3.1\ExprSolver.pdb
+D:\School\Programs\C#\ExprSolver\ExprSolver\obj\Debug\netcoreapp3.1\ExprSolver.genruntimeconfig.cache

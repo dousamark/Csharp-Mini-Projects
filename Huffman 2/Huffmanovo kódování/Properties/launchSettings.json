@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Huffmanovo kódování": {
+      "commandName": "Project",
+      "commandLineArgs": "simple.in"
+    }
+  }
+}

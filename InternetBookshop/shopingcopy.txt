@@ -1,0 +1,3 @@
+u removovani a addovani pridat item.count-- a ++
+
+mozna dat do for loopu?

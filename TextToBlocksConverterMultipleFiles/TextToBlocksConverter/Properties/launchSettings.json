@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextToBlocksConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "a.txt b.txt out.txt 10"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\obj\Debug\netcoreapp3.1\InternetBookshop.csprojAssemblyReference.cache
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\obj\Debug\netcoreapp3.1\InternetBookshop.AssemblyInfoInputs.cache
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\obj\Debug\netcoreapp3.1\InternetBookshop.AssemblyInfo.cs
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\bin\Debug\netcoreapp3.1\InternetBookshop.exe
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\bin\Debug\netcoreapp3.1\InternetBookshop.deps.json
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\bin\Debug\netcoreapp3.1\InternetBookshop.runtimeconfig.json
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\bin\Debug\netcoreapp3.1\InternetBookshop.runtimeconfig.dev.json
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\bin\Debug\netcoreapp3.1\InternetBookshop.dll
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\bin\Debug\netcoreapp3.1\InternetBookshop.pdb
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\obj\Debug\netcoreapp3.1\InternetBookshop.dll
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\obj\Debug\netcoreapp3.1\InternetBookshop.pdb
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\obj\Debug\netcoreapp3.1\InternetBookshop.csproj.CoreCompileInputs.cache
+C:\Users\dousa\Documents\skola\Programs\C#\InternetBookshop\InternetBookshop\obj\Debug\netcoreapp3.1\InternetBookshop.genruntimeconfig.cache
